@@ -9,8 +9,7 @@
      # If defined, specifies a specific SQL isntance to query for information. If not defined, the default instance is used.
      [string] $Instance,
     
-     # Defines the SQL database to query.
-     [ValidateSet ('cpsdyn','LcsCDR','LcsLog','Lis','lyss','mgc','mgccomp','QoEMetrics','rgsconfig','rgsdyn','rtcab','rtcshared','rtcxds','xds')]
+     # Defines the SQL database to query.     
      [ValidateNotNullOrEmpty()]
      [String] $Database = 'LcsCDR',
     
