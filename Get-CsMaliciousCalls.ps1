@@ -44,5 +44,3 @@
      $Connection.Close()
    }
  } # end function Get-CsMaliciousCalls
-
-# Get-CsMaliciousCalls -Server 'rch-sql-02' -Instance 'skypebe' | Format-Table
