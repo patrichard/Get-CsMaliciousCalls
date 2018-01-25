@@ -1,5 +1,3 @@
-Description
-
 A little known feature in Skype for Business is the ability for a user to report a malicious call that they've received. This can be done by going to Settings>Tools>Report a Call...
 
 At that point, the user is presented a dialog that allows them to report the just completed call.
